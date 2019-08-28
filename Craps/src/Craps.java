@@ -9,7 +9,7 @@ public class Craps
 				
 				int randomNumber1 = (int) (Math.random() *6 + 1);
 				int randomNumber2 = (int) (Math.random() *6 + 1);
-
+				// hello Mr.Mcguire. if you are seeing than i had successfully sent this program from my computer to github.
 			
 				Scanner userInput = new Scanner(System.in);
 				System.out.println("Hello there, What is your name?");
